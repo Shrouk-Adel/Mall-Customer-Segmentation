@@ -1,7 +1,8 @@
 # Mall-Customer-Segmentation
 ## Overview
 Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of K-means clustering which is the essential algorithm for clustering unlabeled dataset. Before ahead in this project, learn what actually customer segmentation is.
-seg
+
+![147927776-948a9af0-18bb-49ac-bbc0-30efd2790649](https://github.com/Shrouk-Adel/Mall-Customer-Segmentation/assets/140455175/8ef18484-ca9b-47c2-a501-32233ba58627)
 
 ### What is Customer Segmentation
 Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
